@@ -1,0 +1,15 @@
+{
+    
+        "name": "suck_mod",
+        "displayName": "suck mod",
+        "author": "8097's troops",
+        "description": "it is suck. /nit mod going moving to java... if i wanna do it ",
+        "version": "0.2.198964",
+        "minGameVersion": "140",
+        "dependencies": [
+            "multi-crafter",
+            "chrono-nucleardustry"
+        ],
+"main": "suck.suck",
+"java": true
+}
